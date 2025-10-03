@@ -1,6 +1,9 @@
-streamlit
 torch
 torchtext
 transformers
 sentencepiece
+pandas
+scikit-learn
 sacrebleu
+python-Levenshtein
+streamlit
